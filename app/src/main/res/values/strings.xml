@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheSocialCompass</string>
+    <string name="title_activity_geo_maps">GeoMap</string>
+</resources>
